@@ -1,0 +1,31 @@
+{
+  "title": "Bloodlines Roadmap",
+  "updated": "2026-07-15",
+  "items": [
+    {
+      "name": "Primitive Era",
+      "status": "complete",
+      "summary": "Primitive gathering, crafting, armour and survival protocols."
+    },
+    {
+      "name": "Framework",
+      "status": "complete",
+      "summary": "Core Bloodlines progression, launcher deployment and update framework."
+    },
+    {
+      "name": "DNA Locks",
+      "status": "in-progress",
+      "summary": "The first functional DNA Lock and bloodline integration loop."
+    },
+    {
+      "name": "Mutations",
+      "status": "planned",
+      "summary": "Mutation effects, contamination and biological instability."
+    },
+    {
+      "name": "Endgame",
+      "status": "planned",
+      "summary": "Advanced laboratories, sequencing and endgame biotech progression."
+    }
+  ]
+}
