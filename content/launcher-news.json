@@ -1,0 +1,5 @@
+{
+  "title": "Public Release System Online",
+  "date": "2026-07-15",
+  "body": "The Bloodlines Launcher now installs through a Windows setup package, checks the public release channel, and keeps both the launcher and Bloodlines mod updated automatically."
+}
