@@ -9,12 +9,12 @@
     },
     {
       "name": "Framework",
-      "status": "complete",
+      "status": "in-progress",
       "summary": "Core Bloodlines progression, launcher deployment and update framework."
     },
     {
       "name": "DNA Locks",
-      "status": "in-progress",
+      "status": "planned",
       "summary": "The first functional DNA Lock and bloodline integration loop."
     },
     {
